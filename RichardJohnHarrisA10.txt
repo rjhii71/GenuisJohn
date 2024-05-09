@@ -36,6 +36,8 @@ Mechanical Engineer
 Cryogenic Engineer
 TEL_com Etch Advanced Process Control
     Senior Software Test Engineer
+    Senior Hardware Test Engineer
+NOTE1    I could write the Aplusplus book i studied Digikey_com and Radio Shack at 14 years old of age
     IT Network Security admin root
     IT Software Development Computer Programming
     Writing Manuals: Ecth APC Software Install Manual
@@ -45,7 +47,7 @@ Robotics Engineer
 Hume_com  thanks Professor Ed Hume it was great being your student
     GEM SECI II standard Protocol
 
-NOTE1 no money to book author yet
+NOTE2 no money to book author yet
 my own POP3/SMTP Server BootableMicroSD PXE Menu PXEd Server LINUX WORLD PXE MENU 
     busybox syslinux GNU GCC RPM ccompile distcc 
     SETI Modified for BLOCK Processing stuff
