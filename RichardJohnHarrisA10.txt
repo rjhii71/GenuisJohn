@@ -34,12 +34,15 @@ Electrical Engineer
 Chemical Engineer
 Mechanical Engineer
 Cryogenic Engineer
-TEL_com
+TEL_com Etch Advanced Process Control
     Senior Software Test Engineer
-    IT Network Security admini root
+    IT Network Security admin root
     IT Software Development Computer Programming
+    Writing Manuals: Ecth APC Software Install Manual
+      Draft_Outline: Etch Process Engineering Manual
+Setup Ecth Automated tool in my 50 computers LAB and other locations
 Robotics Engineer
-Hume_com  thanks Professor Ed ume it was great being your student
+Hume_com  thanks Professor Ed Hume it was great being your student
     GEM SECI II standard Protocol
 
 NOTE1 no money to book author yet
