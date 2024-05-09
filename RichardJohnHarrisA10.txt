@@ -40,7 +40,7 @@ TEL_com Etch Advanced Process Control
     IT Software Development Computer Programming
     Writing Manuals: Ecth APC Software Install Manual
       Draft_Outline: Etch Process Engineering Manual
-Setup Ecth Automated tool in my 50 computers LAB and other locations
+Setup Etch Automation Tool Simulator of 19 Rackmount Servers with Etch APC install software in my 50 computer's LAB and other locations training JOSH
 Robotics Engineer
 Hume_com  thanks Professor Ed Hume it was great being your student
     GEM SECI II standard Protocol
